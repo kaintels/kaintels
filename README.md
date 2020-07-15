@@ -27,7 +27,7 @@
 
 One representative paper and one patent are described.
 
-- (Paper) End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism
+- (Paper) End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism [[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)
 - (Patent) Wearable device and method for determining concentration degree of user [[Link]](https://doi.org/10.8080/1020180060627)
 
 You can check more information in [Google scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko).
