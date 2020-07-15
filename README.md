@@ -1,9 +1,7 @@
 ### Seungwoo Han 👋
-I've been interested in making somethings since I was young. </br>
-
-When I was in high school student, I use Rpg Maker to play simple games, and when I was a university student, I made vehicles using 3D design and welding.
-
-While building a vehicle, I thought about drowsiness driving and cardiac symptoms that threaten the driver. Since then I've been doing research about machine learning on the medical domain in [Bio Computing & Machine Learning Laboratory](https://bmclhome.wixsite.com/main) now. In the future, I will continue to show my ability in this field without changing my mind.
+##### I've been interested in making somethings since I was young. </br>
+##### When I was in high school student, I use Rpg Maker to play simple games, and when I was a university student, I made vehicles using 3D design and welding.
+##### While building a vehicle, I thought about drowsiness driving and cardiac symptoms that threaten the driver. Since then I've been doing research about machine learning on the medical domain in [Bio Computing & Machine Learning Laboratory](http://bcml.kw.ac.kr/) now. In the future, I will continue to show my ability in this field without changing my mind.
 
 - Hobby : **Various signal analysis and data generation (voice, image, etc.)**, 3D Design, Playing Violin,  Listen to the idol group song (I love BLACKPINK and BTS.)
 - Email : swoohan@outlook.kr / seungwoohan@kw.ac.kr
@@ -15,27 +13,15 @@ While building a vehicle, I thought about drowsiness driving and cardiac symptom
 ## Social Club
 - Teaching assistant, Department of Computer Engineering, Kwangwoon University (2019 ~ present)
 - Vehicle body design team, Social club Team Mad For Speed (2017 ~ 2018)
-- Book club member, Dongguk University High School (2012 ~ 2014)
-***
 
-## :school: Education
-- Master Candidate, Embedded Software, Kwangwoon University (2019 ~ present)
-- Bachelor of Science, Car Mechatronics, Sahmyook University (2019) [[Project]](https://github.com/Kaintels/FEM)
-- Dongguk University High School (2014)
-</hr>
-
-#
 ---
 ## :pencil2: Skill
 
-- **Machine Learning - Keras / PyTorch / Scikit-learn**
+- **Machine Learning Frameworks - Keras / PyTorch / Scikit-learn**
+- **Hyperparameter Optimization - Optuna / Hpbandster**
 - Numerical Analysis and Signal Processing - Numpy / Scipy / MATLAB / Arduino
 - Data crawling -  Bs4 / Javascript / html
 - 3D and Mechanical design - Blender 3D / CATIA
-
-My favorite IDE is Spyder4, VScode and I love Github for issue management.  </br>
-Recently I've been studying SQLite.
-
 ---
 ## :page_with_curl: Paper & Patents
 
