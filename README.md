@@ -54,6 +54,11 @@ This is a list of projects that I led in the lab.
 
 ***
 ## :octocat: Open Source Contribution
+### **Paper Review**
+- Personal Project
+- Review and implement papers in various fields for others to understand.
+- [[Link]](https://github.com/Kaintels/paper-review)
+
 ### **Spliterpy**
 
 - Personal Project
@@ -61,20 +66,6 @@ This is a list of projects that I led in the lab.
   - Framework : Pandas 0.25
 - Split and save CSV at specific points
 - [[Link]](https://tmshome.itch.io/spliterpy)
-  
-### **Free 3D weapon and item pack**
-
-- Personal Project
-- Language : Python 3.6.5
-  - Framework : Blender 3D 2.78c
-- 3D modeling files for anyone
-- [[Link]](https://tmshome.itch.io/freeweaponanditempack)
-
-
-### **Paper Review**
-- Personal Project
-- Review and implement papers in various fields for others to understand.
-- [[Link]](https://github.com/Kaintels/paper-review)
 
 ---
 ## :100: Certificate
