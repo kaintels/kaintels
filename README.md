@@ -15,13 +15,16 @@
 - Vehicle body design team, Social club Team Mad For Speed (2017 ~ 2018)
 
 ---
-## :pencil2: Skill
+## :100: Skill & Certificate
 
 - **Machine Learning Frameworks - Keras / PyTorch / Scikit-learn**
 - **Hyperparameter Optimization - Optuna / Hpbandster**
 - Numerical Analysis and Signal Processing - Numpy / Scipy / MATLAB / Arduino
 - Data crawling -  Bs4 / Javascript / html
 - 3D and Mechanical design - Blender 3D / CATIA
+- Machine Learning, Coursera [[Link]](https://www.coursera.org/account/accomplishments/verify/GLRKF2N69FN6),  Date : 2018.09
+- Craftsman Motor Vehicles Maintenance, Human Resources Development Service of Korea, Date : 2016.09
+
 ---
 ## :page_with_curl: Paper & Patents
 
@@ -66,18 +69,5 @@ This is a list of projects that I led in the lab.
   - Framework : Pandas 0.25
 - Split and save CSV at specific points
 - [[Link]](https://tmshome.itch.io/spliterpy)
-
----
-## :100: Certificate
-
-### **Machine Learning**
-- Coursera [[Link]](https://www.coursera.org/account/accomplishments/verify/GLRKF2N69FN6)
-- Date : 2018.09
-
-### Craftsman Motor Vehicles Maintenance
-- Human Resources Development Service of Korea
-- Date : 2016.09
-
----
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
