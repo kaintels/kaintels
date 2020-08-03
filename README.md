@@ -58,6 +58,6 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 - Language : Python 3.7.6
   - Framework : Pandas 0.25
 - Split and save CSV at specific points
-- [[Link]](https://tmshome.itch.io/spliterpy)
+- [[Link]](https://github.com/Kaintels/Spliterpy)
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
