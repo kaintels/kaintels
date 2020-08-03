@@ -21,17 +21,7 @@
 - Craftsman Motor Vehicles Maintenance, Human Resources Development Service of Korea, Date : 2016.09
 
 ---
-## :page_with_curl: Paper & Patents
-
-One representative paper and one patent are described.
-
-- (Paper) End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism [[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)
-- (Patent) Wearable device and method for determining concentration degree of user [[Link]](https://doi.org/10.8080/1020180060627)
-
-You can check more information in [Google scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko).
-***
-
-## :computer: Project list
+## :computer: Project & Paper & Patents
 This is a list of projects that I led in the lab.
 
 ### **Arrhythmia detection base on Deep Learning**
@@ -49,6 +39,13 @@ This is a list of projects that I led in the lab.
   - Framework : Scikit-learn 0.22.1, PyTorch 0.4
 - Subject : Linear Regression using PAT (Pulse arrival time), **Costly Feature selection using Reinforcement Learning**
 - Period : 2019.03 ~ 2019.08
+
+Also, one representative paper and one patent are described.
+
+- (Paper) End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism [[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)
+- (Patent) Wearable device and method for determining concentration degree of user [[Link]](https://doi.org/10.8080/1020180060627)
+
+You can check more information in [Google scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko).
 
 ***
 ## :octocat: Open Source Contribution
