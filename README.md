@@ -1,7 +1,5 @@
 ### Seungwoo Han 👋
-##### I've been interested in making somethings since I was young. </br>
-##### When I was in high school student, I use Rpg Maker to play simple games, and when I was a university student, I made vehicles using 3D design and welding.
-##### While building a vehicle, I thought about drowsiness driving and cardiac symptoms that threaten the driver. Since then I've been doing research about machine learning on the medical domain in [Bio Computing & Machine Learning Laboratory](http://bcml.kw.ac.kr/) now. In the future, I will continue to show my ability in this field without changing my mind.
+##### I've been interested in making somethings since I was young. When I was in high school student, I use Rpg Maker to play simple games, and when I was a university student, I made vehicles using 3D design and welding. While building a vehicle, I thought about drowsiness driving and cardiac symptoms that threaten the driver. Since then I've been doing research about machine learning on the medical domain in [Bio Computing & Machine Learning Laboratory](http://bcml.kw.ac.kr/) now. In the future, I will continue to show my ability in this field without changing my mind.
 
 - Hobby : **Various signal analysis and data generation (voice, image, etc.)**, 3D Design, Playing Violin,  Listen to the idol group song (I love BLACKPINK and BTS.)
 - Email : swoohan@outlook.kr / seungwoohan@kw.ac.kr
