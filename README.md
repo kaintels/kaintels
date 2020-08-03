@@ -10,11 +10,6 @@
 - Kaggle / Dacon : [kaintels](https://www.kaggle.com/kaintels) / [한승우](https://dacon.io/myprofile/236429/overview/)
 
 ***
-## Social Club
-- Teaching assistant, Department of Computer Engineering, Kwangwoon University (2019 ~ present)
-- Vehicle body design team, Social club Team Mad For Speed (2017 ~ 2018)
-
----
 ## :100: Skill & Certificate
 
 - **Machine Learning Frameworks - Keras / PyTorch / Scikit-learn**
