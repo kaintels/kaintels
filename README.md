@@ -27,6 +27,7 @@ This is a list of projects that I led in the lab.
 - Language : Python 3.7.6, Framework : Keras 2.2.5, Tensorflow 1.15.0, PyTorch 1.5.1
 - Subject : **Arrhythmia detection using 1D CNN + LSTM**, **Costly Feature selection using Reinforcement Learning**
 - Period : 2019.09 ~ present
+***
 - **Blood Pressure estimation using Machine Learning**
 - Data : Physionet MIMIC-III DB
 - Language : Python 3.7.6, Framework : Scikit-learn 0.22.1, PyTorch 0.4
@@ -46,11 +47,10 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 - Personal Project
 - Review and implement papers in various fields for others to understand.
 - [[Link]](https://github.com/Kaintels/paper-review)
-
+***
 - **Spliterpy**
 - Personal Project
-- Language : Python 3.7.6
-  - Framework : Pandas 0.25
+- Language : Python 3.7.6, Framework : Pandas 0.25
 - Split and save CSV at specific points
 - [[Link]](https://github.com/Kaintels/Spliterpy)
 
