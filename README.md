@@ -18,7 +18,7 @@
 - Machine Learning, Coursera [[Link]](https://www.coursera.org/account/accomplishments/verify/GLRKF2N69FN6),  Date : 2018.09
 - Craftsman Motor Vehicles Maintenance, Human Resources Development Service of Korea, Date : 2016.09
 
----
+***
 ## :computer: Project & Paper & Patents
 This is a list of projects that I led in the lab.
 
@@ -27,7 +27,6 @@ This is a list of projects that I led in the lab.
 - Language : Python 3.7.6, Framework : Keras 2.2.5, Tensorflow 1.15.0, PyTorch 1.5.1
 - Subject : **Arrhythmia detection using 1D CNN + LSTM**, **Costly Feature selection using Reinforcement Learning**
 - Period : 2019.09 ~ present
-
 - **Blood Pressure estimation using Machine Learning**
 - Data : Physionet MIMIC-III DB
 - Language : Python 3.7.6, Framework : Scikit-learn 0.22.1, PyTorch 0.4
