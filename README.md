@@ -10,7 +10,7 @@
 ***
 ## :100: Skill & Certificate
 
-- **Machine Learning Frameworks - Keras / PyTorch Lightning / Scikit-learn**
+- **Machine Learning Frameworks - Keras / PyTorch / Scikit-learn**
 - **Hyperparameter Optimization - Optuna / Hpbandster**
 - Numerical Analysis and Signal Processing - Numpy / Scipy / MATLAB / Arduino
 - Data crawling -  Bs4 / Javascript / html
