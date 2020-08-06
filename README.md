@@ -47,6 +47,7 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 - Language : Python 3.7.6, Framework : Pandas 0.25
 - Split and save CSV at specific points
 - [[Link]](https://github.com/Kaintels/Spliterpy)
+***
 - **awesome-activity**
 - Opensource project contributor
 - Collection of development-related activities
