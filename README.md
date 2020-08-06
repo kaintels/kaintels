@@ -22,18 +22,12 @@
 ## :computer: Project & Paper & Patents
 This is a list of projects that I led in the lab.
 
-- **Arrhythmia detection base on Deep Learning**
-- Data : PhysioNet MIT-Arrhythmia DB
-- Language : Python 3.7.6, Framework : Keras 2.2.5, Tensorflow 1.15.0, PyTorch 1.5.1
-- Subject : **Arrhythmia detection using 1D CNN + LSTM**, **Costly Feature selection using Reinforcement Learning**
+- **Arrhythmia detection and Blood Pressure estimation base on Deep Learning Model**
+- Data : PhysioNet MIT-Arrhythmia DB and MIMIC-III DB
+- Language : Python 3.7.6, Framework : Keras 2.2.5, Tensorflow 1.15.0, PyTorch 1.5.1, Scikit-learn 0.22.1
+- Subject : **Arrhythmia detection using 1D CNN + LSTM**, **Costly Feature selection using Reinforcement Learning**, **Linear Regression using PAT (Pulse arrival time)**
 - Period : 2019.09 ~ present
 ***
-- **Blood Pressure estimation using Machine Learning**
-- Data : Physionet MIMIC-III DB
-- Language : Python 3.7.6, Framework : Scikit-learn 0.22.1, PyTorch 0.4
-- Subject : Linear Regression using PAT (Pulse arrival time), **Costly Feature selection using Reinforcement Learning**
-- Period : 2019.03 ~ 2019.08
-
 Also, one representative paper and one patent are described.
 
 - (Paper) End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism [[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)
@@ -53,5 +47,9 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 - Language : Python 3.7.6, Framework : Pandas 0.25
 - Split and save CSV at specific points
 - [[Link]](https://github.com/Kaintels/Spliterpy)
+- **awesome-activity**
+- Opensource project contributor
+- Collection of development-related activities
+- [[Link]](https://github.com/FKgk/awesome-activity)
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
