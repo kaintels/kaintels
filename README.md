@@ -26,7 +26,7 @@ This is a list of projects that I led in the lab.
 - Data : PhysioNet MIT-Arrhythmia DB and MIMIC-III DB
 - Language : Python 3.7.6, Framework : Keras 2.2.5, Tensorflow 1.15.0, PyTorch 1.5.1, Scikit-learn 0.22.1
 - Subject : **Arrhythmia detection using 1D CNN + LSTM**, **Costly Feature selection using Reinforcement Learning**, **Linear Regression using PAT (Pulse arrival time)**
-- Period : 2019.09 ~ present
+
 ***
 Also, one representative paper and one patent are described.
 
