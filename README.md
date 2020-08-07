@@ -8,10 +8,11 @@
 - Kaggle / Dacon : [kaintels](https://www.kaggle.com/kaintels) / [한승우](https://dacon.io/myprofile/236429/overview/)
 
 ***
-## :computer: Languages Skill
+## :computer: Language Skills
 
 - Python  &nbsp;&nbsp;:star::star::star:
 - C   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- C#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
 - MATLAB :star:
 ***
 ## :page_with_curl: Project & Paper & Patents
@@ -39,5 +40,8 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 |Paper Review|[[Link]](https://github.com/Kaintels/paper-review)|Owner|
 |Spliterpy|[[Link]](https://github.com/Kaintels/Spliterpy)|Owner|
 |awesome-activity|[[Link]](https://github.com/FKgk/awesome-activity)|Contributor|
+
+## :fire: Interested in
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/kaintels)](https://github.com/kaintels)
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
