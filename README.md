@@ -15,38 +15,29 @@
 - MATLAB :star:
 ***
 ## :page_with_curl: Project & Paper & Patents
+
 This is a list of projects that I led in the lab.
+|Title|Dataset|Language|Framework|Subject|
+|:---:|---|---|---|---|
+|Arrhythmia Detection|PhysioNet MIT-Arrhythmia DB|Python 3.7.6|Keras 2.2.5, PyTorch 1.5.1|Arrhythmia detection using 1D CNN + LSTM, Costly Feature selection using DQN|
+|Blood Pressure Estimation|PhysioNet MIMIC-III DB|Python 3.7.6|PyTorch 0.4.0, Scikit-learn 0.22.1|Linear Regression using PAT (Pulse arrival time)|
 
-- **Arrhythmia detection and Blood Pressure estimation base on Deep Learning Model**
-- Data : PhysioNet MIT-Arrhythmia DB and MIMIC-III DB
-- Language : Python 3.7.6, Framework : Keras 2.2.5, Tensorflow 1.15.0, PyTorch 1.5.1, Scikit-learn 0.22.1
-- Subject : **Arrhythmia detection using 1D CNN + LSTM**, **Costly Feature selection using Reinforcement Learning**, **Linear Regression using PAT (Pulse arrival time)**
-
-***
 Also, one representative paper and one patent are described.
 
-- (Paper) End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism [[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)
-- (Patent) Wearable device and method for determining concentration degree of user [[Link]](https://doi.org/10.8080/1020180060627)
+|Title|Paper/Patent|Link|
+|---|:---:|---|
+|End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism|Paper|[[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)|
+|Wearable device and method for determining concentration degree of user|Patent|[[Link]](https://doi.org/10.8080/1020180060627)|
 
 You can check more information in [Google scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko).
 
 ***
 ## :octocat: Open Source Contribution
-- **Free 3D modeling pack**
-- 3D Modeling using blender 3D (python based tool)
-- [[Link]](https://kaintels.itch.io/freeweaponanditempack)
-***
-- **Paper Review**
-- Personal Project
-- [[Link]](https://github.com/Kaintels/paper-review)
-***
-- **Spliterpy**
-- Personal Project
-- Language : Python 3.7.6, Framework : Pandas 0.25
-- [[Link]](https://github.com/Kaintels/Spliterpy)
-***
-- **awesome-activity**
-- Opensource project contributor
-- [[Link]](https://github.com/FKgk/awesome-activity)
+|Title|Link|Owner/Contributor|
+|:---|---|:---:|
+|Free 3D modeling pack|[[Link]](https://kaintels.itch.io/freeweaponanditempack)|Owner|
+|Paper Review|[[Link]](https://github.com/Kaintels/paper-review)|Owner|
+|Spliterpy|[[Link]](https://github.com/Kaintels/Spliterpy)|Owner|
+|awesome-activity|[[Link]](https://github.com/FKgk/awesome-activity)|Contributor|
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
