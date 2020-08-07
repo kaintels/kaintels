@@ -8,18 +8,13 @@
 - Kaggle / Dacon : [kaintels](https://www.kaggle.com/kaintels) / [한승우](https://dacon.io/myprofile/236429/overview/)
 
 ***
-## :100: Skill & Certificate
+## :computer: Languages Skill
 
-- **Machine Learning Frameworks - Keras / PyTorch / Scikit-learn**
-- **Hyperparameter Optimization - Optuna / Hpbandster**
-- Numerical Analysis and Signal Processing - Numpy / Scipy / MATLAB / Arduino
-- Data crawling -  Bs4 / Javascript / html
-- 3D and Mechanical design - Blender 3D / CATIA
-- Machine Learning, Coursera [[Link]](https://www.coursera.org/account/accomplishments/verify/GLRKF2N69FN6),  Date : 2018.09
-- Craftsman Motor Vehicles Maintenance, Human Resources Development Service of Korea, Date : 2016.09
-
+- Python  &nbsp;&nbsp;:star::star::star:
+- C   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- MATLAB :star:
 ***
-## :computer: Project & Paper & Patents
+## :page_with_curl: Project & Paper & Patents
 This is a list of projects that I led in the lab.
 
 - **Arrhythmia detection and Blood Pressure estimation base on Deep Learning Model**
@@ -37,20 +32,21 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 
 ***
 ## :octocat: Open Source Contribution
+- **Free 3D modeling pack**
+- 3D Modeling using blender 3D (python based tool)
+- [[Link]](https://kaintels.itch.io/freeweaponanditempack)
+***
 - **Paper Review**
 - Personal Project
-- Review and implement papers in various fields for others to understand.
 - [[Link]](https://github.com/Kaintels/paper-review)
 ***
 - **Spliterpy**
 - Personal Project
 - Language : Python 3.7.6, Framework : Pandas 0.25
-- Split and save CSV at specific points
 - [[Link]](https://github.com/Kaintels/Spliterpy)
 ***
 - **awesome-activity**
 - Opensource project contributor
-- Collection of development-related activities
 - [[Link]](https://github.com/FKgk/awesome-activity)
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
