@@ -10,9 +10,10 @@
 ***
 ## :computer: Language Skills
 
-- Python  &nbsp;&nbsp;:star::star::star:
-- C   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- C#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- Python &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star:
+- C    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- C#   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- GO   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
 - MATLAB &nbsp;&nbsp;:star:
 - Javascript :star:
 ***
