@@ -11,9 +11,10 @@
 ## :computer: Language Skills
 
 - Python  &nbsp;&nbsp;:star::star::star:
-- C   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- C#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- MATLAB :star:
+- C   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- C#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
+- MATLAB &nbsp;&nbsp;:star:
+- Javascript :star:
 ***
 ## :page_with_curl: Project & Paper & Patents
 
@@ -35,7 +36,7 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 ***
 ## :octocat: Open Source Contribution
 |Title|Link|Owner/Contributor|
-|:---|---|:---:|
+|---|---:|:---:|
 |Free 3D modeling pack|[[Link]](https://kaintels.itch.io/freeweaponanditempack)|Owner|
 |Paper Review|[[Link]](https://github.com/Kaintels/paper-review)|Owner|
 |Spliterpy|[[Link]](https://github.com/Kaintels/Spliterpy)|Owner|
