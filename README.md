@@ -10,10 +10,11 @@
 ***
 ## :computer: Language Skills
 
-- Python &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star:
+- Python &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star:
 - C++  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
 - GO   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- MATLAB &nbsp;&nbsp;:star:
+- JAVA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star:
+- MATLAB &nbsp;&nbsp;&nbsp;&nbsp;:star:
 - Javascript :star:
 ***
 ## :page_with_curl: Project & Paper & Patents
@@ -43,6 +44,8 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 |awesome-activity|[[Link]](https://github.com/FKgk/awesome-activity)|Contributor|
 
 ## :fire: Interested in
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/kaintels)](https://github.com/kaintels)
+[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/kaintels)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodejs&logoColor=white&link=https://github.com/kaintels)](https://github.com/kaintels)
 
 Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
