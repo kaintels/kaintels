@@ -13,8 +13,8 @@
 - Python &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star:
 - C++  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
 - GO   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- JAVA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star:
-- MATLAB &nbsp;&nbsp;&nbsp;&nbsp;:star:
+- JAVA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star:
+- MATLAB &nbsp;&nbsp;:star:
 - Javascript :star:
 ***
 ## :page_with_curl: Project & Paper & Patents
