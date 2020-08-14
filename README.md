@@ -38,7 +38,7 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 |Title|Link|Owner/Contributor|
 |---|---:|:---:|
 |Free 3D modeling pack|[[Link]](https://kaintels.itch.io/freeweaponanditempack)|Owner|
-|Paper Review|[[Link]](https://github.com/Kaintels/paper-review)|Owner|
+|awesome-paper-review|[[Link]](https://github.com/Kaintels/paper-review)|Owner|
 |Spliterpy|[[Link]](https://github.com/Kaintels/Spliterpy)|Owner|
 |awesome-activity|[[Link]](https://github.com/FKgk/awesome-activity)|Contributor|
 
