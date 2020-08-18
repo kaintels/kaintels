@@ -21,7 +21,7 @@
 This is a list of projects that I led in the lab.
 |Title|Dataset|Language|Framework|Subject|
 |:---:|---|---|---|---|
-|Arrhythmia Detection|PhysioNet MIT-Arrhythmia DB|Python 3.7.6|Keras 2.2.5, <br/> PyTorch 1.5.1|● Arrhythmia detection using 1D CNN + LSTM <br/>● Costly Feature selection using DQN,<br/>● Deep Learning Model Hyperparameter Optimization using [BOHB](https://github.com/automl/HpBandSter)<br/>● Extract feature map from STFT image using 1D ECG signal and CNN|
+|Arrhythmia Detection|PhysioNet MIT-Arrhythmia DB|Python 3.7.6|Keras 2.2.5, <br/> PyTorch 1.5.1|● Arrhythmia detection using 1D CNN + LSTM <br/>● Costly Feature selection using DQN,<br/>● Deep Learning Model Hyperparameter Optimization using [BOHB](https://github.com/automl/HpBandSter)<br/>● Extract feature map from STFT image using ECG signal and CNN|
 |Blood Pressure Estimation|PhysioNet MIMIC-III DB|Python 3.7.6|PyTorch 0.4.0, <br/> Scikit-learn 0.22.1|● Linear Regression using PAT (Pulse arrival time) <br/> ● Various feature extraction from ECG|
 
 Also, one representative paper and one patent are described.
