@@ -1,16 +1,15 @@
 ### Seungwoo Han 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
+[![Mail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwoohan@kw.ac.kr)](mailto:seungwoohan@kw.ac.kr)
+
 ##### I've been interested in making somethings since I was young. When I was in high school student, I use Rpg Maker to play simple games, and when I was a university student, I made vehicles using 3D design and welding. While building a vehicle, I thought about drowsiness driving and cardiac symptoms that threaten the driver. Since then I've been doing research about machine learning on the medical domain in [Bio Computing & Machine Learning Laboratory](http://bcml.kw.ac.kr/) now. In the future, I will continue to show my ability in this field without changing my mind.
 
 - Hobby : **Various signal analysis and data generation (voice, image, etc.)**, 3D Design, Playing Violin,  Listen to the idol group song (I love BLACKPINK and BTS.)
-- Email : swoohan@outlook.kr / seungwoohan@kw.ac.kr
-- Github : [github.com/Kaintels](https://github.com/Kaintels)
 - Linkedin : [linkedin.com/in/swhan/](https://www.linkedin.com/in/swhan/)
 - Kaggle / Dacon : [kaintels](https://www.kaggle.com/kaintels) / [한승우](https://dacon.io/myprofile/236429/overview/)
 
 ***
-## :computer: Most Used Languages
-
+## :computer: Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&layout=compact)
 
 ***
