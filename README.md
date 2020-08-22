@@ -45,6 +45,6 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/kaintels)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodejs&logoColor=white&link=https://github.com/kaintels)](https://github.com/kaintels)
 
-![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true) 
 
 Thank you for reading. If you have more questions, please contact swoohan@outlook.kr <3
