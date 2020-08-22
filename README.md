@@ -1,4 +1,5 @@
 ### Seungwoo Han 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 ##### I've been interested in making somethings since I was young. When I was in high school student, I use Rpg Maker to play simple games, and when I was a university student, I made vehicles using 3D design and welding. While building a vehicle, I thought about drowsiness driving and cardiac symptoms that threaten the driver. Since then I've been doing research about machine learning on the medical domain in [Bio Computing & Machine Learning Laboratory](http://bcml.kw.ac.kr/) now. In the future, I will continue to show my ability in this field without changing my mind.
 
 - Hobby : **Various signal analysis and data generation (voice, image, etc.)**, 3D Design, Playing Violin,  Listen to the idol group song (I love BLACKPINK and BTS.)
@@ -8,13 +9,10 @@
 - Kaggle / Dacon : [kaintels](https://www.kaggle.com/kaintels) / [한승우](https://dacon.io/myprofile/236429/overview/)
 
 ***
-## :computer: Language Skills
+## :computer: Most Used Languages
 
-- Python &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star:
-- C++  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- GO   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star:
-- MATLAB &nbsp;&nbsp;:star:
-- Javascript :star:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 ## :page_with_curl: Project & Paper & Patents
 
@@ -46,5 +44,7 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 ## :fire: Interested in
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/kaintels)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodejs&logoColor=white&link=https://github.com/kaintels)](https://github.com/kaintels)
+
+![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Thank you for reading. If you have more questions, please contact swoohan@outlook.kr <3
