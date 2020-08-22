@@ -47,4 +47,4 @@ You can check more information in [Google scholar](https://scholar.google.com/ci
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/kaintels)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodejs&logoColor=white&link=https://github.com/kaintels)](https://github.com/kaintels)
 
-Thank you for reading so far. If you have more questions, please contact swoohan@outlook.kr <3
+Thank you for reading. If you have more questions, please contact swoohan@outlook.kr <3
