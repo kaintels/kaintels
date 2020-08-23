@@ -10,7 +10,7 @@
 
 ***
 ## :computer: Languages
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&)
 ***
 ## :page_with_curl: Project & Paper & Patents
 
