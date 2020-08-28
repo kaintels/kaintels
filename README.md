@@ -43,7 +43,7 @@ Also, one representative paper and one patent are described.
 
 |Title|Paper/Patent|Link|
 |---|:---:|---|
-|End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism|Paper|[[Link]](https://www.mdpi.com/1424-8220/20/8/2338/htm)|
+|Detection of Arrhythmia using 1D Convolution Neural Network with LSTM Model|Paper|[[Link]](http://journal.auric.kr/ieiespc/ArticleDetail/RD_R/398002)|
 |Wearable device and method for determining concentration degree of user|Patent|[[Link]](https://doi.org/10.8080/1020180060627)|
 
 You can check more information in [Google scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko).
