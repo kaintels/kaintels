@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Seungwoo Han</h1>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 [![Mail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwoohan@kw.ac.kr)](mailto:seungwoohan@kw.ac.kr)
 
+<h1 align="center">Hi 👋, I'm Seungwoo Han</h1>
 <h3 align="center">A passionate machine learning engineer from korea</h3>
 
 
