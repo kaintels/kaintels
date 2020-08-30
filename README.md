@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on [DQN-dino](https://github.com/Kaintels/dqn-dino)
 - 🌱 I’m currently learning **PyTorch**
-- 📫 How to reach me **swoohan@outlook.kr**
 
 - Keyword : **Data Analysis**, **Machine Learning**, **Optimization**, **E-health**, **Security**
 
