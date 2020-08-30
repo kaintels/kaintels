@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [DQN-dino](https://github.com/Kaintels/dqn-dino)
 - 🌱 I’m currently learning **PyTorch**
-- Keyword : **Data Analysis**, **Machine Learning**, **Optimization**, **Security**
+- Keyword : **Data Analysis**, **Machine Learning**, **Optimization**, **E-health**, **Security**
 
 ***
 ## :computer: Languages and Tools
