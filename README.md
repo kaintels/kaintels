@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on [DQN-dino](https://github.com/Kaintels/dqn-dino)
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Meta-learning**
 - 📫 How to reach me **swoohan@outlook.kr**
 
 - Keyword : **Bioinformatics**, **Machine Learning**, **Optimization**
