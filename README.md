@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **PyTorch**
 - 📫 How to reach me **swoohan@outlook.kr**
 
-- Keyword : **Data Analysis**, **Machine Learning**, **Optimization**, **E-Health**
+- Keyword : **Bioinformatics**, **Machine Learning**, **Optimization**, **E-Health**
 
 ***
 ## :computer: Languages and Tools
