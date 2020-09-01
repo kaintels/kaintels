@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Meta-learning**
 - 📫 How to reach me **swoohan@outlook.kr**
 
-- Keyword : **Bioinformatics**, **Machine Learning**, **Optimization**
+- Keyword : **Data Mining**, **Machine Learning**, **Optimization**
 
 ***
 ## :computer: Languages and Tools
