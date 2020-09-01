@@ -33,14 +33,26 @@
 
 ## :page_with_curl: Project & Paper & Patents
 
-This is a list of projects that I led in the lab.
+- **Lab Project**
+
+This is a list of projects that I led in the [lab](http://bcml.kw.ac.kr/).
+
 |Title|Dataset|Framework|Subject|
 |:---:|:---:|---|---|
 |Abnormal heartbeat detection program|PhysioNet MIT-Arrhythmia DB, <br/> Rat heartbeat data|PySide2 5.15.0, <br/> PyTorch 1.5.1|Develop heartbeat detection GUI program|
 |Arrhythmia detection|PhysioNet MIT-Arrhythmia DB|Keras 2.2.5, <br/> PyTorch 1.5.1|● Arrhythmia detection using 1D CNN + LSTM <br/>● Costly Feature selection using DQN<br/>● Deep Learning Model Hyperparameter Optimization using [BOHB](https://github.com/automl/HpBandSter)<br/>● Extract feature map from STFT image using ECG signal and CNN|
 |Blood pressure estimation|PhysioNet MIMIC-III DB|PyTorch 0.4.0, <br/> Scikit-learn 0.22.1|● Linear Regression using PAT (Pulse arrival time) <br/> ● Various feature extraction from ECG|
 
-Also, one representative paper and one patent are described.
+
+- **Side Project**
+
+|Title|Dataset|Framework|Subject|
+|:---:|:---:|---|---|
+|DQN-dino|Dino Sprite|PyTorch 1.6.0|Play Google Chrome Dinosaur using Deep Q-Network|
+
+- **Paper & Patents**
+
+One representative paper and one patent are described.
 
 |Title|Paper/Patent|Link|
 |---|:---:|---|
