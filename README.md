@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on [DQN-dino](https://github.com/Kaintels/dqn-dino)
-- 🌱 I’m currently learning **Meta-learning**
+- 🌱 I’m currently learning **Reinforcement Learning**
 - 📫 How to reach me **swoohan@outlook.kr**
 
 - Keyword : **Data Mining**, **Machine Learning**, **Optimization**
