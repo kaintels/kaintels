@@ -35,7 +35,6 @@
 
 * You can check in my [homepage](https://kaintels.github.io/project/).
 
-***
 ## :octocat: Open Source Contribution
 
 * You can check in my [homepage](https://kaintels.github.io/contribution/).
