@@ -33,16 +33,12 @@
 
 ## :page_with_curl: Project & Paper & Patents
 
-You can check in my [homepage](https://kaintels.github.io/project/).
+* You can check in my [homepage](https://kaintels.github.io/project/).
 
 ***
 ## :octocat: Open Source Contribution
-|Title|Owner/Contributor|Link|
-|---|:---:|:---:|
-|Free 3D modeling pack|Owner|[[Link]](https://kaintels.itch.io/freeweaponanditempack)|
-|awesome-paper-review|Owner|[[Link]](https://github.com/Kaintels/paper-review)|
-|Spliterpy|Owner|[[Link]](https://github.com/Kaintels/Spliterpy)|
-|awesome-activity|Contributor|[[Link]](https://github.com/FKgk/awesome-activity)|
+
+* You can check in my [homepage](https://kaintels.github.io/contribution/).
 
 ## :fire: Interested in
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/kaintels)
