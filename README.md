@@ -8,7 +8,7 @@
 <a href="https://kaggle.com/kaintels" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaintels" height="30" width="30" /></a>
 </p>
 
-- 🔭 I’m currently working on Private lab project, [DQN-dino](https://github.com/Kaintels/dqn-dino), and [ECG-CWT-Classification](https://github.com/Kaintels/ecg-cwt-classification)
+- 🔭 I’m currently working on Lab project, [DQN-dino](https://github.com/Kaintels/dqn-dino), and [ECG-CWT-Classification](https://github.com/Kaintels/ecg-cwt-classification)
 - 🌱 I’m currently learning **Reinforcement Learning**
 - 📫 How to reach me **swoohan@outlook.kr**
 
