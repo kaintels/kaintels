@@ -16,7 +16,7 @@
 - **Bio Signal Analysis using Machine Learning**
     - Arrhythmia Classification
     - Blood Pressure Estimation
-- **Production Optimization**
+- **Product Optimization**
     - Optimal Computer-Aided Design
 - **Simultaneous Localization and Mapping**
     - Loop Closure
