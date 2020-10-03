@@ -23,6 +23,7 @@
 
 ### 👯 Side Jobs & Hobby
 - Advisor of Machine Learning and Vehicle design, self-made vehicle club in Sahmyook University
+- [Devlog](https://kaintels.github.io/)
 
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
 
