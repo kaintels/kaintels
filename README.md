@@ -27,6 +27,7 @@
 
 
 [![Kaintels's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaintels)](https://solved.ac/profile/kaintels)
+
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
 
 ### 📫 How to reach me 
