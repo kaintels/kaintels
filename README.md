@@ -7,6 +7,7 @@
 - Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as **Master Candidate** of Kwangwoon University.
 - TA of **Assembly language**, in Kwangwoon University, 2019.09 ~ 2019.12, 2020.09 ~ 2020.12
 - TA of **Machine Learning**, in Kwangwoon University, 2020.03 ~ 2020.06
+- [RocketPunch](https://www.rocketpunch.com/@swoohan)
 - [Google Scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko)
 
 ### :fire: Interested in
