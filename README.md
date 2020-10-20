@@ -34,5 +34,9 @@
 
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=heartbeat-detection-snippet)](https://github.com/Kaintels/heartbeat-detection-snippet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=bp-prediction-snippet)](https://github.com/Kaintels/bp-prediction-snippet)
+
 ### 📫 How to reach me 
 - E-mail : swoohan@outlook.kr
