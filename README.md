@@ -12,17 +12,15 @@
 ### :fire: Interested in
 
 - **Reinforcement Learning**
-    - Multi-agent Learning
     - Meta-Learning
     - Few-Shot Learning
 - **Generative Model**
+    - Auxiliary Classifier GAN
 - **Bio Signal Analysis using Machine Learning**
     - Arrhythmia Classification
     - Blood Pressure Estimation
-- **Product Optimization**
-    - Optimal Computer-Aided Design
-- **Simultaneous Localization and Mapping**
-    - Loop Closure
+- **Neural Architecture Search**
+    - Bayesian Optimization Hyperband 
 
 ### 👯 Side Jobs & Hobby
 - Advisor of Machine Learning and Vehicle design, self-made vehicle club in Sahmyook University
