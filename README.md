@@ -16,7 +16,7 @@
     - Few-Shot Learning
 - **Generative Model**
     - Auxiliary Classifier GAN
-- **Bio Signal Analysis using Machine Learning**
+- **Data Analysis using Machine Learning**
     - Arrhythmia Classification
     - Blood Pressure Estimation
 - **Automated machine learning**
