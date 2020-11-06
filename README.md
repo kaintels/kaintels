@@ -19,8 +19,9 @@
 - **Bio Signal Analysis using Machine Learning**
     - Arrhythmia Classification
     - Blood Pressure Estimation
-- **Neural Architecture Search**
-    - Bayesian Optimization Hyperband 
+- **Automated machine learning**
+    - Bayesian Optimization Hyperband
+    - Neural Architecture Search
 
 ### 👯 Side Jobs & Hobby
 - Advisor of Machine Learning and Vehicle design, self-made vehicle club in Sahmyook University
