@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 
 ### 🔭 Career
-- Received the B.S. degrees, in Car Mechatronics Engineering from Sahmyook University, Seoul, Korea, in 2019.
+- Received the B.S. degrees, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
 - Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as **Master Candidate** of Kwangwoon University.
 - TA of **Assembly language**, in Kwangwoon University, 2019.09 ~ 2019.12, 2020.09 ~ 2020.12
 - TA of **Machine Learning**, in Kwangwoon University, 2020.03 ~ 2020.06
@@ -28,11 +28,9 @@
 - [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning), [개발 관련 활동들 모음](https://github.com/FKgk/awesome-activity) Contributor
 - [Blog](https://blog.naver.com/engineeringxyz)
 
-
 [![Kaintels's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaintels)](https://solved.ac/profile/kaintels)
 
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
-
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=heartbeat-detection-snippet)](https://github.com/Kaintels/heartbeat-detection-snippet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=bp-prediction-snippet)](https://github.com/Kaintels/bp-prediction-snippet)
