@@ -24,7 +24,6 @@
     - Neural Architecture Search
 
 ### 👯 Side Jobs & Hobby
-- Advisor of Machine Learning and Vehicle design, self-made vehicle club in Sahmyook University
 - [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning), [개발 관련 활동들 모음](https://github.com/FKgk/awesome-activity) Contributor
 - [Blog](https://blog.naver.com/engineeringxyz)
 
