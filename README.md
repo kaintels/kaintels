@@ -5,10 +5,7 @@
 
 [![Github Followers](https://img.shields.io/github/followers/Kaintels?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Kaintels?tab=followers)
 
-[![Kaintels's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaintels)](https://solved.ac/profile/kaintels)
-
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
-
 
 ### 🔭 Career
 - Received the B.S. degrees, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
@@ -17,26 +14,20 @@
 - TA of **Machine Learning**, in Kwangwoon University, 2020.03 ~ 2020.06
 - [Google Scholar](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko)
 
-### :fire: Interested in
+### 🌱 I’m currently learning
+- Javascript, Python, Csharp
+- TensorFlow, PyTorch
+- Computer Aided Design
+- Genetic Algorithms
+- Generative Adversarial Networks
+- Reinforcement Learning
+- Neural Architecture Search
 
-- **Reinforcement Learning**
-    - Meta-Learning
-    - Few-Shot Learning
-- **Generative Model**
-    - Auxiliary Classifier GAN
-- **Data Analysis using Machine Learning**
-    - Arrhythmia Classification
-    - Blood Pressure Estimation
-- **Automated machine learning**
-    - Bayesian Optimization Hyperband
-    - Neural Architecture Search
-
-### 👯 Side Jobs & Hobby
-- [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning), [개발 관련 활동들 모음](https://github.com/FKgk/awesome-activity) Contributor
-- [Blog](https://blog.naver.com/engineeringxyz)
+### 👯 I’m looking to collaborate on
+- Mentor of Machine Learning at [Madein](cafe.naver.com/madeingagong)
+- Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
+- [Machine Learning Study 혼자 해보기 repo](https://github.com/teddylee777/machine-learning) Contributor
+- [개발 관련 활동들 모음 repo](https://github.com/FKgk/awesome-activity) Contributor
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=heartbeat-detection-snippet)](https://github.com/Kaintels/heartbeat-detection-snippet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=bp-prediction-snippet)](https://github.com/Kaintels/bp-prediction-snippet)
-
-### 📫 How to reach me 
-- E-mail : swoohan@outlook.kr
