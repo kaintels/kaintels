@@ -24,8 +24,8 @@
 - Neural Architecture Search
 
 ### 👯 I’m looking to collaborate on
-- Mentor of Machine Learning at [Madein](cafe.naver.com/madeingagong)
-- Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
+- Mentor of Machine Learning at [Madein](https://made-in.co.kr/) (2020-)
+- Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs) (2019-)
 - [Machine Learning Study 혼자 해보기 repo](https://github.com/teddylee777/machine-learning) Contributor
 - [개발 관련 활동들 모음 repo](https://github.com/FKgk/awesome-activity) Contributor
 
