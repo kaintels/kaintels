@@ -11,7 +11,7 @@
 
 ### 🌱 I’m currently learning
 - Javascript, Python, Csharp
-- TensorFlow, PyTorch
+- TensorFlow, PyTorch, PyQt
 - Computer Aided Design
 - Genetic Algorithms
 - Generative Adversarial Networks
@@ -19,10 +19,10 @@
 - Neural Architecture Search
 
 ### 👯 I’m looking to collaborate on
-- Mentor of Machine Learning at [Madein](https://made-in.co.kr/) (2020-)
-- Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs) (2019-)
-- [Machine Learning Study 혼자 해보기 repo](https://github.com/teddylee777/machine-learning) Contributor
-- [개발 관련 활동들 모음 repo](https://github.com/FKgk/awesome-activity) Contributor
+- Mentor of Machine Learning at [Madein](https://made-in.co.kr/)
+- Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
+- Contributor of [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning) 
+- Contributor of [개발 관련 활동들 모음](https://github.com/FKgk/awesome-activity)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=heartbeat-detection-snippet)](https://github.com/Kaintels/heartbeat-detection-snippet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=bp-prediction-snippet)](https://github.com/Kaintels/bp-prediction-snippet)
