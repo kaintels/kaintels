@@ -5,11 +5,11 @@
 
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
 
-### 🔭 I’m currently working on
+### 🔭 Career
 - Received the B.S. degrees, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
 - Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as [**Master Candidate**](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko) of Kwangwoon University.
 
-### 🌱 I’m currently learning
+### 🌱 Skills
 - Javascript, Python, Csharp
 - TensorFlow, PyTorch, PyQt
 - Computer Aided Design
@@ -18,7 +18,7 @@
 - Reinforcement Learning
 - Neural Architecture Search
 
-### 👯 I’m looking to collaborate on
+### 👯 Activities
 - Mentor of Machine Learning at [Madein](https://made-in.co.kr/)
 - Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
 - Contributor of [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning) 
