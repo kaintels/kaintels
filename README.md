@@ -6,7 +6,7 @@
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
 
 ### 🔭 Career
-- Received the B.S. degrees, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
+- Received the **B.S. degrees**, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
 - Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as [**Master Candidate**](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko) of Kwangwoon University.
 
 ### 🌱 Skills
