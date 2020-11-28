@@ -24,6 +24,3 @@
 - Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
 - Contributor of [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning) 
 - Contributor of [개발 관련 활동들 모음](https://github.com/FKgk/awesome-activity)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=heartbeat-detection-snippet)](https://github.com/Kaintels/heartbeat-detection-snippet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaintels&repo=bp-prediction-snippet)](https://github.com/Kaintels/bp-prediction-snippet)
