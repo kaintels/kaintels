@@ -16,7 +16,7 @@
 ### 🌱 Skills
 - Javascript, Python, Csharp
 - ARM Assembly
-- TensorFlow, PyTorch, PyQt
+- PyTorch, TensorFlow, PyQt
 - Computer Aided Design
 - Genetic Algorithms
 - Generative Adversarial Networks
