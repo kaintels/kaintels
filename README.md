@@ -29,5 +29,5 @@
 ### 👯 Activities
 - Mentor of Machine Learning at [Madein](https://made-in.co.kr/)
 - Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
-- Contributor of [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning) 
-- Contributor of [개발 관련 활동들 모음](https://github.com/FKgk/awesome-activity)
+- Contributor of [machine-learning](https://github.com/teddylee777/machine-learning) 
+- Contributor of [awesome-activity](https://github.com/FKgk/awesome-activity)
