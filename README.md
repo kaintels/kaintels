@@ -16,6 +16,11 @@
 - Received the **B.S. degrees**, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
 - Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as **Master Candidate** of Kwangwoon University.
 
+### 🏆 Ranking
+- Kaggle
+  - 2019 1st ML month with KaKR (153/353 Top 44%)
+
+
 ### 🌱 Skills
 - Javascript, Python, Csharp
 - ARM Assembly
