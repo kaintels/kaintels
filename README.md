@@ -8,9 +8,10 @@
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwoohan@kw.ac.kr)](mailto:seungwoohan@kw.ac.kr)
 
-
-
 ![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaintels&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🔭 Career
 - Received the **B.S. degrees**, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
