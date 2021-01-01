@@ -2,7 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swhan/)](https://www.linkedin.com/in/swhan/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kaintels.github.io/)](https://kaintels.github.io/) 
 [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kaintels/)](https://www.kaggle.com/kaintels)
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
