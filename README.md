@@ -1,6 +1,3 @@
-<div align=center>
-  Join 20. 12. 31 ~
-</div>
 
 </div>
 <details>
