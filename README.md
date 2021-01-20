@@ -31,17 +31,8 @@
 
 ### 🔭 Career
 - Received the **B.S. degrees**, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
-- Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as **Master Candidate** of Kwangwoon University.
-
-### 🌱 Skills
-- Javascript, Python, Csharp
-- ARM Assembly
-- PyTorch, TensorFlow, PyQt
-- Computer Aided Design
-- Genetic Algorithms
-- Generative Adversarial Networks
-- Reinforcement Learning
-- Neural Architecture Search
+- Since 2019, Joined the [BCML-KW](http://bcml.kw.ac.kr/), Seoul, Korea, as **Master Candidate**.
+- Since 2021, Joined the [DuDu Information Technologies, Inc. ](http://www.duduit.co.kr/), Seoul, Korea, as **AI Researcher**.
 
 ### 👯 Activities
 - Mentor of Machine Learning at [Madein](https://made-in.co.kr/)
