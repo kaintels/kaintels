@@ -28,8 +28,8 @@
 
 ### 🔭 Career
 - Received the **B.S. degrees**, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019. 02.
-- Since 2019. 03, Joined the [BCML-KW](http://bcml.kw.ac.kr/), Seoul, Korea, as **Master Candidate**.
-- Since 2020. 12, Joined the [DuDu Information Technologies, Inc. ](http://www.duduit.co.kr/), Seoul, Korea, as **AI Researcher**.
+- Since 2019. 03., Joined the [BCML-KW](http://bcml.kw.ac.kr/), Seoul, Korea, as **Master Candidate**.
+- Since 2020. 12., Joined the [DuDu Information Technologies, Inc.](http://www.duduit.co.kr/), Seoul, Korea, as **AI Researcher**.
 
 ### 👯 Activities
 - Mentor of Machine Learning at [Madein](https://made-in.co.kr/)
