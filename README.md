@@ -7,7 +7,21 @@
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwoohan@kw.ac.kr)](mailto:seungwoohan@kw.ac.kr)
 
-![Kaintels's github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&hide_border=true&&count_private=true)
+### :octocat: My Github Stats
+
+<!--
+[![Covenant github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<table id="stats"><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr>
+</table>  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaintels&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
