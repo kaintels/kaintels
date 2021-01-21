@@ -6,7 +6,9 @@
 
   <div align=center>
   
-  데이터 셋의 주요 확장자인 csv를 특정 지점마다 각각 잘라 저장하는 기능이 담긴 프로그램을 데이터 처리 라이브러리인 Pandas와 GUI 라이브러리인 PySide2를 이용하여 제작후 무료배포하였습니다.
+  ![img](./img/spliterpy_logo.png)
+  
+  데이터 셋의 주요 확장자인 csv를 특정 지점마다 각각 잘라 저장하는 기능이 담긴 프로그램을 데이터 처리 라이브러리인 Pandas와 GUI 라이브러리인 PySide2를 이용하여 제작후 [itch.io](https://kaintels.itch.io/spliterpy)에 무료배포하였습니다.
   
 </div>
 </details>
