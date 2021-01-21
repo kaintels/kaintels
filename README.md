@@ -31,6 +31,27 @@
 </div>
 </details>
 
+
+</div>
+<details>
+  <summary>커리어 및 활동</summary>
+
+  ## 🔭 커리어
+
+  - 삼육대학교 카메카트로닉스학과 공학사 (2019. 02.)
+  - 광운대학교 지능정보시스템 임베디드 SW공학과 [석사과정](http://bcml.kw.ac.kr/) (2019. 03. ~)
+  - [주식회사 두두아이티](http://www.duduit.co.kr/) AI 및 보안 연구원 입사 (2020. 12. ~)
+  
+  ## 👯 활동
+  
+  - 삼육대학교 창업기업 [Madein](https://made-in.co.kr/) 머신러닝 멘토
+  - 자작차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 머신러닝 멘토
+  - [machine-learning](https://github.com/teddylee777/machine-learning) 깃허브 리포지토리 기여자 
+  - [awesome-activity](https://github.com/FKgk/awesome-activity) 깃허브 리포지토리 기여자
+
+</div>
+</details>
+
 ---------------
 
 ### Seungwoo Han @Kaintels
@@ -43,18 +64,6 @@
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swoohan@outlook.kr)](mailto:swoohan@outlook.kr)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 🔭 Career
-- Received the **B.S. degrees**, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019. 02.
-- Since 2019. 03., Joined the [BCML-KW](http://bcml.kw.ac.kr/), Seoul, Korea, as **Master Candidate**.
-- Since 2020. 12., Joined the [DuDu Information Technologies, Inc.](http://www.duduit.co.kr/), Seoul, Korea, as **AI Researcher**.
-
-### 👯 Activities
-- Mentor of Machine Learning at [Madein](https://made-in.co.kr/)
-- Mentor of Machine Learning at [Team Mad for Speed](https://www.facebook.com/teammfs)
-- Contributor of [machine-learning](https://github.com/teddylee777/machine-learning) 
-- Contributor of [awesome-activity](https://github.com/FKgk/awesome-activity)
 
 ---------------
 ### :octocat: My Github Stats
