@@ -45,7 +45,7 @@
   ## 👯 활동
   
   - 삼육대학교 창업기업 [Madein](https://made-in.co.kr/) 머신러닝 멘토
-  - 자작차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 머신러닝 멘토
+  - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 멘토
   - [machine-learning](https://github.com/teddylee777/machine-learning) 깃허브 리포지토리 기여자 
   - [awesome-activity](https://github.com/FKgk/awesome-activity) 깃허브 리포지토리 기여자
 
