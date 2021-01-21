@@ -25,7 +25,7 @@
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwoohan@kw.ac.kr)](mailto:seungwoohan@kw.ac.kr)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🔭 Career
