@@ -1,4 +1,4 @@
-### 📢 My News
+### 📢 News
 
 </div>
 <details>
