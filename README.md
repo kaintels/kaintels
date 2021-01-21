@@ -1,3 +1,17 @@
+</div>
+<details>
+  <summary>Spliterpy를 소개합니다.</summary>
+
+  ## Spliterpy를 소개합니다.
+
+  <div align=center>
+  
+  데이터 셋의 주요 확장자인 csv를 특정 지점마다 각각 잘라 저장하는 기능이 담긴 프로그램을 데이터 처리 라이브러리인 Pandas와 GUI 라이브러리인 PySide2를 이용하여 제작후 무료배포하였습니다.
+  
+</div>
+</details>
+
+
 
 </div>
 <details>
@@ -10,7 +24,6 @@
   캐글 코리아가 주관하고, 구글 코리아에서 후원한 제1회 캐글 코리아 대회에서 상위 50% 이내에 포함되어 소정의 상품을 받았습니다.
   [[Leaderboard 확인 (**153rd** of 349)]](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard)
   
-
 </div>
 </details>
 
