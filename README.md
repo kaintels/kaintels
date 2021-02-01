@@ -10,6 +10,8 @@
   
   ![img](./img/spliterpy_logo.png)
   
+  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475970.svg)](http://dx.doi.org/10.5281/zenodo.4475970)
+  
   CSV 파일을 특정 지점마다 각각 잘라 저장하는 프로그램을 Pandas와 PySide2를 이용하여 제작 후 [itch.io](https://kaintels.itch.io/spliterpy)에 무료배포하였습니다.
   [[Source code Link]](https://github.com/Kaintels/spliterpy)
   
