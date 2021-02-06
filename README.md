@@ -91,7 +91,7 @@
 
 ---------------
 
-### Seungwoo Han [@Kaintels]/(https://kaintels.github.io/)
+### Seungwoo Han [@Kaintels](https://kaintels.github.io/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swhan/)](https://www.linkedin.com/in/swhan/)
