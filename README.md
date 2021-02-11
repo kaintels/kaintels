@@ -75,13 +75,13 @@
 <details>
   <summary>커리어 및 활동</summary>
 
-  ## 🔭 커리어
+  ## 🔭 Career
 
   - 삼육대학교 카메카트로닉스학과 공학사 (2019. 02.)
   - 광운대학교 지능정보시스템 임베디드SW공학과 [석사과정](http://bcml.kw.ac.kr/) (2019. 03. ~)
   - [주식회사 두두아이티](http://www.duduit.co.kr/) 소프트웨어 엔지니어 입사 (2020. 12. ~)
   
-  ## 👯 활동
+  ## 👯 Activity
   
   - Samsung Convergence Software Course Tutor
   - 삼육대학교 창업기업 [Madein](https://made-in.co.kr/) 머신러닝 멘토
