@@ -85,9 +85,9 @@
   
   - Samsung Convergence Software Course Tutor
   - 삼육대학교 창업기업 [Madein](https://made-in.co.kr/) 머신러닝 멘토
-  - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 멘토
-  - [machine-learning](https://github.com/teddylee777/machine-learning) 깃허브 리포지토리 기여자 
-  - [awesome-activity](https://github.com/FKgk/awesome-activity) 깃허브 리포지토리 기여자
+  - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 및 패턴인식 멘토
+  - [machine-learning](https://github.com/teddylee777/machine-learning) Github repo 기여자 
+  - [awesome-activity](https://github.com/FKgk/awesome-activity) Github repo 기여자
 
 </div>
 </details>
@@ -102,7 +102,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kaintels/)](https://www.kaggle.com/kaintels)
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungwoohan0108@gmail.com)](mailto:seungwoohan0108@gmail.com)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---------------
