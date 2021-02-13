@@ -84,10 +84,26 @@
   ## 👯 Activity
   
   - Samsung Convergence Software Course Tutor
-  - 삼육대학교 창업기업 [Madein](https://made-in.co.kr/) 머신러닝 멘토
+  - 삼육대학교 창업기업 [땡큐쏘마치](https://made-in.co.kr/) 머신러닝 멘토
   - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 및 패턴인식 멘토
   - [machine-learning](https://github.com/teddylee777/machine-learning) Github repo 기여자 
   - [awesome-activity](https://github.com/FKgk/awesome-activity) Github repo 기여자
+  
+  ## 🌱 Interest
+  
+  - **Machine Learning**
+    - Deep Reinforcement Learning
+    - Meta Learning
+    - Optimization
+  - **Neural Network**
+    - Graph Neural Network
+    - Spiking Neural Network
+    - Generative Adversarial Network
+  - **Application**
+    - Recommender System
+    - Biometrics
+    - Anomaly detection
+  
 
 </div>
 </details>
