@@ -47,7 +47,7 @@
   - [H. Eom, D. Lee, S. Han, Y.S. Hariyani, Y. Lim, I. Sohn, K. Park, C. Park, "End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism", Sensors 20 (8), 2338, 2020](https://doi.org/10.3390/s20082338)
 
   ## ☕ Conference
-  - 홍길，김제완，유제욱，한승우，이상준，조병옥，전주성, "꿀벌 군집 최적화와 강화학습을 활용한 방화벽 로그 분석을 위한 특징 선택 연구", 한국통신학회 학술대회논문집, 2021
+  - 홍길，김제완，유제욱，한승우，이상준，조병옥，전주성, "꿀벌 군집 최적화와 강화학습을 활용한 방화벽 로그 분석을 위한 특징 선택 연구", 한국통신학회 학술대회논문집, 921-922, 2021
   - [S. Han, H. Eom, J. Kim, C. Park, "Optimal DNN architecture search using Bayesian Optimization Hyperband for arrhythmia detection", The 2020 IEEE Wireless Power Transfer Conference, 2020](https://doi.org/10.1109/WPTC48563.2020.9295590)
   - [유현수， 한승우， 박철수, "단일채널 수면뇌파 분석을 위한 컨볼루션 신경망 모델 최적화", 대한전자공학회 학술대회, 1205-1208, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10448123)
   - H. Eom, D. Lee, S. Han, K. Park, C. Park, "Blood Pressure Estimation Using Deep Learning based on Attention Mechanism", Engineering in Circadian Rhythm and Ubiquitous Healthcare (Uhealthcare), 2020
