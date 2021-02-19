@@ -114,7 +114,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swhan/)](https://www.linkedin.com/in/swhan/)
-[![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl) 
+[![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-c14438?style=flat-square&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Seungwoo_Han8)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=flat-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-1834-076X)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kaintels/)](https://www.kaggle.com/kaintels)
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
