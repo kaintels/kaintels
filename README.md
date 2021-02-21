@@ -89,21 +89,27 @@
   - [machine-learning](https://github.com/teddylee777/machine-learning) Github repo 기여자 
   - [awesome-activity](https://github.com/FKgk/awesome-activity) Github repo 기여자
   
-  ## 🌱 Interest
+  ## 🌱 Interest & Research Area
   
   - **Machine Learning**
     - Deep Reinforcement Learning
     - Meta Learning
-    - Optimization
+    - Automated Learning
   - **Neural Network**
     - Graph Neural Network
     - Spiking Neural Network
     - Generative Adversarial Network
   - **Application**
+    - Natural Language Processing
     - Recommender System
+    - Fuzzy System
     - Biometrics
     - Anomaly detection
-  
+  - **Genetic Algorithms and Optimization**
+    - Bee Swarm Optimization
+    - Grey Wolf Optimizer
+    - Monkey King Evolution
+    - Bayesian with Hyperband
 
 </div>
 </details>
