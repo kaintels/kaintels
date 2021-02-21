@@ -109,7 +109,7 @@
     - Bee Swarm Optimization
     - Grey Wolf Optimizer
     - Monkey King Evolution
-    - Bayesian with Hyperband
+    - [Bayesian and Hyperband](https://doi.org/10.1109/WPTC48563.2020.9295590)
 
 </div>
 </details>
