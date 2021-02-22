@@ -99,6 +99,7 @@
     - Graph Neural Network
     - Spiking Neural Network
     - Generative Adversarial Network
+    - AutoEncoder
   - **Application**
     - Natural Language Processing
     - Recommender System
