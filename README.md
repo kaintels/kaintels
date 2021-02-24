@@ -106,7 +106,7 @@
     - Recommender System
     - Fuzzy System
     - Biometrics
-    - Anomaly detection
+    - Anomaly Detection
   - **Genetic Algorithms and Optimization**
     - [Bee Swarm Optimization](https://doi.org/10.31224/osf.io/pm3hy)
     - Grey Wolf Optimizer
