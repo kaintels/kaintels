@@ -61,7 +61,7 @@
   - [한승우，엄희상，박광석，이동석，박철수, "심전도와 맥파를 이용한 딥러닝 기반 실시간 혈압 추정 연구", 한국통신학회 학술대회논문집, 984-985, 2020](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08003641)
 
   ## ✍ Preprint
-  - [Han, S., Hong, G., Kim, J., Yu, J., Lee, S., Cho, B., & Jeon, J. (2021, February 22). Optimal feature selection research for firewall log analysis using Bee Swarm Optimization with Reinforcement Learning.](https://doi.org/10.31224/osf.io/pm3hy)
+  - [S. Han et al., “Optimal feature selection research for firewall log analysis using Bee Swarm Optimization with Reinforcement Learning,” engrXiv, 2021.](https://doi.org/10.31224/osf.io/pm3hy)
   
   
   ## 📑 Patent
