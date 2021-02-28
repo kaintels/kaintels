@@ -50,10 +50,10 @@
   - [박철수，이희준，여민수，한승우, "사용자의 집중도를 판단하는 방법 및 이를 위한 웨어러블 디바이스", KR Patent App. 10-2018-0060627, 2019](https://doi.org/10.8080/1020180060627) 
 
   ## 💻 Software
-  - Spliterpy [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475970.svg)](http://dx.doi.org/10.5281/zenodo.4475970)
+  - [Spliterpy](http://doi.org/10.5281/zenodo.4475970)
   
   ## 💾 Dataset
-  - Free 3D weapon and item pack [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475983.svg)](http://doi.org/10.5281/zenodo.4475983)
+  - [Free 3D weapon and item pack](http://doi.org/10.5281/zenodo.4475983)
 
 </div>
 </details>
