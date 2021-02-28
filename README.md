@@ -2,26 +2,6 @@
 
 </div>
 <details>
-  <summary>Spliterpy를 소개합니다.</summary>
-
-  ## Spliterpy를 소개합니다.
-
-  <div align=center>
-  
-  ![img](./img/spliterpy_logo.png)
-  
-  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475970.svg)](http://dx.doi.org/10.5281/zenodo.4475970)
-  
-  학부생때 제작한 것으로 CSV 파일을 특정 지점마다 각각 잘라 저장하는 프로그램을 Pandas와 PySide2를 이용하여 제작 후 [itch.io](https://kaintels.itch.io/spliterpy)에 무료배포하였습니다.
-  [[Source code Link]](https://github.com/Kaintels/spliterpy)
-  
-</div>
-</details>
-
-
-
-</div>
-<details>
   <summary>2019 1st ML month with KaKR Top 50% 진입</summary>
 
   ## 🏆 2019 1st ML month with KaKR Top 50% 진입
@@ -62,12 +42,18 @@
 
   ## ✍ Preprint
   - [S. Han et al., “Optimal feature selection research for firewall log analysis using Bee Swarm Optimization with Reinforcement Learning,” engrXiv, 2021.](https://doi.org/10.31224/osf.io/pm3hy)
-  
-  
+
+
   ## 📑 Patent
   - 박철수，엄희상，한승우，율리순하리야니, "사용자의 혈압을 추정하기 위한 장치 및 방법", KR Patent App. 10-2019-0179386, 2020
   - [박철수，유호영，조만희，한승우, "랜덤 소수 생성 방법 및 그를 위한 장치", Grant of KR Patent. 10-2217-9280000, 2020](https://doi.org/10.8080/1020190087871)
   - [박철수，이희준，여민수，한승우, "사용자의 집중도를 판단하는 방법 및 이를 위한 웨어러블 디바이스", KR Patent App. 10-2018-0060627, 2019](https://doi.org/10.8080/1020180060627) 
+
+  ## 💻 Software
+  - Spliterpy [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475970.svg)](http://dx.doi.org/10.5281/zenodo.4475970)
+  
+  ## 💾 Dataset
+  - Free 3D weapon and item pack - A downloadable 3D asset pack for Windows [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475983.svg)](http://doi.org/10.5281/zenodo.4475983)
 
 </div>
 </details>
