@@ -53,7 +53,7 @@
   - Spliterpy [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475970.svg)](http://dx.doi.org/10.5281/zenodo.4475970)
   
   ## 💾 Dataset
-  - Free 3D weapon and item pack - A downloadable 3D asset pack for Windows [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475983.svg)](http://doi.org/10.5281/zenodo.4475983)
+  - Free 3D weapon and item pack [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4475983.svg)](http://doi.org/10.5281/zenodo.4475983)
 
 </div>
 </details>
