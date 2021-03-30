@@ -1,3 +1,10 @@
+
+```
+저는 사람을 위한 제품을 만들고 싶은 사람입니다. 
+항상 새로운 기술에 대한 호기심이 가득하며, 동료들의 고충을 항상 이해하며 도와주고 있습니다. 
+다양한 기술,데이터를 이용하여 제품을 만들어내는 것에 행복을 느낍니다.
+```
+
 ### 📢 News
 
 </div>
@@ -106,7 +113,20 @@
 
 </div>
 <details>
-  <summary>언론 보도 </summary>
+  <summary>언론 보도</summary>
+  
+  ## 🎥 Special report
+  
+  - [뛰기만 했는데도 기부가 되는 행사가 있다고? [법무부 블로그]](https://blog.daum.net/mojjustice/8705944)
+  - [새롭게 달라지는 변호사 제도, 어떻게 달라질까? [법무부 블로그]](https://blog.daum.net/mojjustice/8705797)
+  - [가깝지만 먼 나라 일본! 얼마나 알고 있나요? [법무부 블로그]](https://blog.daum.net/mojjustice/8705756)
+  - [학교폭력 피해 치료비, 이젠 걱정하지 마세요~ [법무부 블로그]](https://blog.daum.net/mojjustice/8705681)
+  - [지하철에서 물건을 팔아도 되나요? [법무부 블로그]](https://blog.daum.net/mojjustice/8705609)
+
+  ## 🎙 Interview
+
+  - [[톡톡! 생활] 새학기 준비, 알뜰하고 실속있게 [KBS]](https://news.kbs.co.kr/news/view.do?ncd=2434422)
+  
 </div>
 </details>
 
