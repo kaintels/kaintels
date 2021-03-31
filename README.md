@@ -70,22 +70,8 @@
 
 </div>
 <details>
-  <summary>커리어 및 활동</summary>
+  <summary>연구 분야</summary>
 
-  ## 🔭 Career
-
-  - 삼육대학교 카메카트로닉스학과 공학사 (2019. 02.)
-  - 광운대학교 지능정보시스템 임베디드SW공학과 [공학석사](http://bcml.kw.ac.kr/) (2021. 02.)
-  - [주식회사 두두아이티](http://www.duduit.co.kr/) 소프트웨어 엔지니어 (전문연구요원) (2020. 12. ~)
-  
-  ## 👯 Activity
-  
-  - Samsung Convergence Software Course Tutor
-  - 삼육대학교 창업기업 [땡큐쏘마치](https://made-in.co.kr/) 머신러닝 멘토
-  - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 및 패턴인식 멘토
-  - [machine-learning](https://github.com/teddylee777/machine-learning) Github repo 기여자 
-  - [awesome-activity](https://github.com/FKgk/awesome-activity) Github repo 기여자
-  
   ## 🌱 Interest & Research Area
   
   - **Machine Learning**
@@ -108,7 +94,28 @@
     - Grey Wolf Optimizer
     - Monkey King Evolution
     - [Bayesian and Hyperband](https://doi.org/10.1109/WPTC48563.2020.9295590)
+  
+</div>
+</details>
 
+</div>
+<details>
+  <summary>커리어 및 활동</summary>
+
+  ## 🔭 Career
+
+  - 삼육대학교 카메카트로닉스학과 공학사 (2019. 02.)
+  - 광운대학교 지능정보시스템 임베디드SW공학과 [공학석사](http://bcml.kw.ac.kr/) (2021. 02.)
+  - [주식회사 두두아이티](http://www.duduit.co.kr/) 소프트웨어 엔지니어 (전문연구요원) (2020. 12. ~)
+  
+  ## 👯 Activity
+  
+  - Samsung Convergence Software Course Tutor
+  - 삼육대학교 창업기업 [땡큐쏘마치](https://made-in.co.kr/) 머신러닝 멘토
+  - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 및 패턴인식 멘토
+  - [machine-learning](https://github.com/teddylee777/machine-learning) Github repo 기여자 
+  - [awesome-activity](https://github.com/FKgk/awesome-activity) Github repo 기여자
+  
 </div>
 </details>
 
