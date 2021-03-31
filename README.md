@@ -123,7 +123,7 @@
 
 </div>
 <details>
-  <summary>언론 보도</summary>
+  <summary>언론보도</summary>
   
   ## 🎥 Special report
   
