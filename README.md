@@ -70,7 +70,7 @@
 
 </div>
 <details>
-  <summary>연구 분야</summary>
+  <summary>연구분야</summary>
 
   ## 🌱 Interest & Research Area
   
