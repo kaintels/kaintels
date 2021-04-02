@@ -30,7 +30,7 @@
   <summary>논문 및 특허 리스트</summary>
 
   ## ✒ Article
-  - 한승우. "심전도 기반 부정맥 감지를 위한 종단간 심층 뉴럴네트워크 설계." 국내석사학위논문 광운대학교 대학원, 2021. 서울
+  - 한승우, "심전도 기반 부정맥 감지를 위한 종단간 심층 뉴럴네트워크 설계," 국내석사학위논문 광운대학교 대학원, 2021, 서울
   - [G. Kim, Y. S. Hariyani, S. Han, H. Lee, R. Sohn, and C. Park, “Optimization of Deep Neural Networks for Heartrate Estimation from Face Video Stream to Implement Smart Health-City,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 12, pp. 2220–2228, 2020.](https://doi.org/10.7840/kics.2020.45.12.2220)
   - [C. Lee, W. Lee, S. Han, and C. Park, “ECG-Based Arrhythmia Detection SNN Algorithm Using STDP and Spike Inference for Smart Health City,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 12, pp. 2193–2201, 2020.](https://doi.org/10.7840/kics.2020.45.12.2193)
   - [S. Han, W. Lee, H. Eom, J. Kim, C. Park, "Detection of Arrhythmia using 1D Convolution Neural Network with LSTM Model", IEIE Transactions on Smart Processing & Computing 9 (4), 261-265, 2020](https://doi.org/10.5573/IEIESPC.2020.9.4.261)
@@ -106,11 +106,18 @@
 
   - 삼육대학교 카메카트로닉스학과 공학사 (2019. 02.)
   - 광운대학교 지능정보시스템 임베디드SW공학과 [공학석사](http://bcml.kw.ac.kr/) (2021. 02.)
-  - [주식회사 두두아이티](http://www.duduit.co.kr/) 소프트웨어 엔지니어 (전문연구요원) (2020. 12. ~)
+  - [주식회사 두두아이티](http://www.duduit.co.kr/) 소프트웨어 엔지니어 (전문연구요원) (2020. 12.-)
+  
+  ## 🥼 Research history
+  
+  - SW중심대학 학생연구원 (2019.03.-2020.12.)
+  - IoT 기반 이식-침습형 고위험 의료장치를 위한 능동형 킬 스위치 및 바이오마커 활용 방어시스템 개발 학생연구원 (2020.03.-2020.08.)
+  - 지능형 바이오메디컬 무선전력전송 연구센터 참여연구원 (2020.03.-2021.02.)
   
   ## 👯 Activity
   
   - Samsung Convergence Software Course Tutor
+  - 광운대학교 어셈블리, 머신러닝, 전자회로, 컴퓨터공학기초실험 실습조교
   - 삼육대학교 창업기업 [땡큐쏘마치](https://made-in.co.kr/) 머신러닝 멘토
   - 자작자동차 동아리 [Team Mad for Speed](https://www.facebook.com/teammfs) 자율주행자동차 및 패턴인식 멘토
   - [machine-learning](https://github.com/teddylee777/machine-learning) Github repo 기여자 
