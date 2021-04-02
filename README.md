@@ -61,6 +61,7 @@
 
   ## 💻 Software
   - [Spliterpy](http://doi.org/10.5281/zenodo.4475970)
+  - 머신러닝 기반 부정맥 분류 시스템, 제 C-2019-035523호, 등록일자: 2019년 11월 26일
   
   ## 💾 Dataset
   - [Free 3D weapon and item pack](http://doi.org/10.5281/zenodo.4475983)
