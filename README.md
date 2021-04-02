@@ -30,7 +30,7 @@
   <summary>논문 및 특허발명 리스트</summary>
 
   ## ✒ Article
-  - 한승우, "심전도 기반 부정맥 감지를 위한 종단간 심층 뉴럴네트워크 설계," 국내석사학위논문 광운대학교 대학원, 2021, 서울
+  - [한승우, "심전도 기반 부정맥 감지를 위한 종단간 심층 뉴럴네트워크 설계," 국내석사학위논문 광운대학교 대학원, 2021, 서울](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=99854490fb0071aeffe0bdc3ef48d419)
   - [G. Kim, Y. S. Hariyani, S. Han, H. Lee, R. Sohn, and C. Park, “Optimization of Deep Neural Networks for Heartrate Estimation from Face Video Stream to Implement Smart Health-City,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 12, pp. 2220–2228, 2020.](https://doi.org/10.7840/kics.2020.45.12.2220)
   - [C. Lee, W. Lee, S. Han, and C. Park, “ECG-Based Arrhythmia Detection SNN Algorithm Using STDP and Spike Inference for Smart Health City,” The Journal of Korean Institute of Communications and Information Sciences, vol. 45, no. 12, pp. 2193–2201, 2020.](https://doi.org/10.7840/kics.2020.45.12.2193)
   - [S. Han, W. Lee, H. Eom, J. Kim, C. Park, "Detection of Arrhythmia using 1D Convolution Neural Network with LSTM Model", IEIE Transactions on Smart Processing & Computing 9 (4), 261-265, 2020](https://doi.org/10.5573/IEIESPC.2020.9.4.261)
