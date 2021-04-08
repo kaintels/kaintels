@@ -32,7 +32,11 @@
 ---------------
 ### :octocat: My Github Stats
 
-<!--
+</div>
+<details>
+  <summary></summary>
+  
+  <!--
 [![Covenant github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -44,3 +48,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&hide_border=true&layout=compact&hide=jupyter%20notebook,HTML&langs_count=8" align="left" style="width: 100%" />
 </td></tr>
 </table>  
+  
+</div>
+</details>
+
+
