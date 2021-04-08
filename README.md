@@ -27,7 +27,6 @@
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=flat-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-1834-076X)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kaintels/)](https://www.kaggle.com/kaintels)
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---------------
 ### :octocat: My Github Stats
@@ -40,7 +39,7 @@
 [![Covenant github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaintels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaintels&margin-w=50&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table id="stats"><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=Kaintels&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td>
