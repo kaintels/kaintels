@@ -12,24 +12,6 @@
 
 ---------------
 
-### 📢 News
-
-</div>
-<details>
-  <summary>2019 1st ML month with KaKR Top 50% 진입</summary>
-
-  ## 🏆 2019 1st ML month with KaKR Top 50% 진입
-
-  <div align=center>
-  
-  캐글 코리아가 주관하고, 구글 코리아에서 후원한 제1회 캐글 코리아 대회에서 상위 50% 이내에 포함되어 소정의 상품을 받았습니다.
-  [[Leaderboard 확인 (**153rd** of 349)]](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard)
-  
-</div>
-</details>
-
----------------
-
 ### :octocat: My Github Stats
 
 </div>
