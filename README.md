@@ -33,7 +33,7 @@
 
 </div>
 <details>
-  <summary></summary>
+  <summary>자세히</summary>
   
   <!--
 [![Covenant github stats](https://github-readme-stats.vercel.app/api?username=Kaintels&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
