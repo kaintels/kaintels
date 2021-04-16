@@ -18,8 +18,8 @@
 - Reinforcement Learning, Pwnable, Web hacking, Reversing
 
 ### 👯 I’m looking to collaborate on
-- Contributor of [**machine-learning*](https://github.com/teddylee777/machine-learning)
-- Contributor of [**awesome-activity*](https://github.com/FKgk/awesome-activity)
+- Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
+- Contributor of [**awesome-activity**](https://github.com/FKgk/awesome-activity)
 - Mentor of Machine Learning at [**Team Mad for Speed**](https://www.facebook.com/teammfs/)
 ---------------
 
