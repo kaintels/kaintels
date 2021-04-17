@@ -15,7 +15,7 @@
 
 ### 🌱 I’m currently learning
 - Modern C++, Python, JavaScript
-- Reinforcement Learning, Pwnable, Web hacking, Reversing
+- Reinforcement Learning, Neuroevolution, Pwnable, Web hacking, Reversing
 
 ### 👯 I’m looking to collaborate on
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
