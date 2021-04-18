@@ -21,6 +21,7 @@
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 - Contributor of [**awesome-activity**](https://github.com/FKgk/awesome-activity)
 - Mentor of Machine Learning at [**Team Mad for Speed**](https://www.facebook.com/teammfs/)
+- Teaching Assistant of Department of Computer Engineering, Kwangwoon University
 ---------------
 
 ### :octocat: My Github/Online judge Stats
