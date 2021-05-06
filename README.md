@@ -20,7 +20,7 @@
 ### 👯 I’m looking to collaborate on
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 - Contributor of [**awesome-activity**](https://github.com/FKgk/awesome-activity)
-- Mentor of Machine Learning at [**Team Mad for Speed**](https://www.facebook.com/teammfs/)
+- Mentor of Machine Learning at [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
 - Teaching Assistant of Department of Computer Engineering, Kwangwoon University
 ---------------
 
