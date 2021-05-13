@@ -11,7 +11,7 @@
 [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?logoWidth=15&logoColor=white&link=https://www.rocketpunch.com/@swoohan)](https://www.rocketpunch.com/@swoohan) 
 
 ### 🔭 I’m currently working on
-- DuDu Information Technologies, Inc. since Dec 2020
+- Data Engineer, DuDu Information Technologies, Inc. since Dec 2020
 
 ### 🌱 I’m currently learning
 - Python, Scala, JavaScript, C
