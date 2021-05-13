@@ -14,8 +14,8 @@
 - DuDu Information Technologies, Inc. since Dec 2020
 
 ### 🌱 I’m currently learning
-- Python, Scala, JavaScript
-- Reinforcement Learning, Neuroevolution, Pwnable, Web hacking, Reversing
+- Python, Scala, JavaScript, C
+- Reinforcement Learning, Neuroevolution, Data mining, IoT
 
 ### 👯 I’m looking to collaborate on
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
