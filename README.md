@@ -14,7 +14,7 @@
 - DuDu Information Technologies, Inc. since Dec 2020
 
 ### 🌱 I’m currently learning
-- Python, JavaScript, Java, Scala
+- Python, Scala, JavaScript
 - Reinforcement Learning, Neuroevolution, Pwnable, Web hacking, Reversing
 
 ### 👯 I’m looking to collaborate on
