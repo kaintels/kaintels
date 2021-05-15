@@ -6,7 +6,7 @@
 ### Data Engineer
 - Data Engineer, DuDu Information Technologies, Inc. since Dec 2020
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning), [**awesome-activity**](https://github.com/FKgk/awesome-activity)
-- Machine Learning Mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/), [**ThankyousoMarch**](https://made-in.co.kr/)
+- Machine learning mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/), [**ThankyousoMarch**](https://made-in.co.kr/)
 
 ### Interest
 - Python, Scala, JavaScript, C
