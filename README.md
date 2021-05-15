@@ -3,21 +3,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 </div>
 
-### 🔭 I’m currently working on
+### Data Engineer
 - Data Engineer, DuDu Information Technologies, Inc. since Dec 2020
-
-### 🌱 I’m currently learning
-- Python, Scala, JavaScript, C
-- Reinforcement Learning, Neuroevolution, Data mining, IoT
-
-### 👯 I’m looking to collaborate on
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 - Contributor of [**awesome-activity**](https://github.com/FKgk/awesome-activity)
 - Mentor of Machine Learning at [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
-- Teaching Assistant of Department of Computer Engineering, Kwangwoon University
----------------
 
-### :octocat: My Github/Online judge Stats
+### Interest
+- Python, Scala, JavaScript, C
+- Reinforcement Learning, Neuroevolution, Data mining, IoT
+
+---
+
+### My Github/Online judge Stats
 
 </div>
 <details>
