@@ -4,13 +4,13 @@
 </div>
 
 ### Data Engineer
-- Data Engineer, DuDu Information Technologies, Inc. since Dec 2020
-- Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning), [**awesome-activity**](https://github.com/FKgk/awesome-activity)
-- Machine learning mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/), [**ThankyousoMarch**](https://made-in.co.kr/)
+- Data Engineer in Security industry (Security training)
+- Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning) and [**awesome-activity**](https://github.com/FKgk/awesome-activity)
+- Machine learning mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
 
 ### Interest
 - Python, Java, Scala, JavaScript, C
-- Reinforcement Learning, Neuroevolution, Data mining, IoT
+- Reinforcement Learning, Neuroevolution, Web hacking, Data mining, IoT
 
 ---
 
