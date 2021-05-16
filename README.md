@@ -3,10 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 </div>
 
-### Data Engineer
-- Data Engineer in Security industry (Security training)
+### Machine Learning Engineer
+- Machine Learning Engineer in Security industry (Security training)
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning) and [**awesome-activity**](https://github.com/FKgk/awesome-activity)
-- Machine learning mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
+- Machine Learning mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
 
 ### Interest
 - Python, Java, Scala, JavaScript, C
