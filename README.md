@@ -10,6 +10,7 @@
 
 ### Interest
 - Python, Scala, MySQL, JavaScript, C
+- K8s, Spark, Kafka, Ray
 - Reinforcement Learning, Neuroevolution, Web hacking, Data mining, IoT
 
 ---
