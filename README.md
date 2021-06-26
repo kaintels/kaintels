@@ -3,10 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaintels)](https://hits.seeyoufarm.com)
 </div>
 
-### Machine Learning Engineer
-- Machine Learning Engineer in Security and National defense
+### Data Scientist
+- Data Scientist in Security and National defense
 - Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning) and [**awesome-activity**](https://github.com/FKgk/awesome-activity)
-- Machine Learning mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
+- Machine Learning Mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
 
 ### Interest
 - Python, Scala, MySQL, JavaScript, C
