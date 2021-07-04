@@ -9,8 +9,8 @@
 - Machine Learning Mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://made-in.co.kr/)
 
 ### Interest
-- Python, Scala, MySQL, JavaScript, C
-- K8s, Spark, Kafka, Ray
+- Python, MySQL, Java, C, JavaScript
+- Docker, Hadoop, Kafka, Ray
 - Reinforcement Learning, Neuroevolution, Web hacking, Data mining, IoT
 
 ---
