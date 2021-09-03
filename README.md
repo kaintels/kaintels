@@ -8,7 +8,7 @@
 - **Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning) and [**awesome-activity**](https://github.com/FKgk/awesome-activity)**
 - **Machine Learning Mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://th3.co.kr/)**
 
-### Research Interest
+### Research Interest 🔎
 
 > Reinforcement Learning Application, Optimization, Data Mining
 
