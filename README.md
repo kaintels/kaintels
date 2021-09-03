@@ -8,6 +8,11 @@
 - **Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning) and [**awesome-activity**](https://github.com/FKgk/awesome-activity)**
 - **Machine Learning Mento of [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://th3.co.kr/)**
 
+### Research Interest
+
+> Reinforcement Learning Application, Optimization, Data Mining
+
+
 ### My Skill 📙
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=10)
