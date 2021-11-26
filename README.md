@@ -11,6 +11,11 @@
 
 > Reinforcement Learning Application, Optimization, Data Mining
 
+### Honor & Rewards 🏆
+
+- Excellence Award, Cyber security AI·BIGDATA challenge, 2021
+- Top 50%, 1st ML month with KaKR, 2019
+
 
 ### My Skill 📙
 
