@@ -5,7 +5,7 @@
 
 ## Bio 📘 
 - **Machine Learning Engineer in Security and National defense**
-- **Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
+- **Contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)**
 
 ## Research Interest 🔎
 > Reinforcement Learning Application, Optimization, Data Mining
