@@ -12,7 +12,7 @@
 
 ## Honor & Rewards 🏆
 - Excellence Award, Cyber security AI·BIGDATA challenge, 2021
-- Top 50%, 1st ML month with Kaggle Korea, 2019
+- Top 50%, 1st Machine Learning month with Kaggle Korea, 2019
 
 ## My Skill 📙
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=10)
@@ -23,4 +23,3 @@
 - 3D CAD design team leader, [**Team Mad for Speed**](https://www.facebook.com/teammfs/) (2017-2019)
 - Machine Learning Mento, [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://th3.co.kr/) (2019-2021)
 - Member, Institute of Electronics and Information Engineers (IEIE) (2021-Present)
-- Member, The Korea Society of Computer and Information (KSCI) (2021-Present)
