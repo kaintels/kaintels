@@ -23,7 +23,7 @@
 - 3D CAD design team leader, [**Team Mad for Speed**](https://www.facebook.com/teammfs/) (2017-2019)
 - Teaching Assistant, Kwangwoon University (2019-2021)
 - Machine Learning Mento, [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://th3.co.kr/) (2019-2021)
-- Member (Including student), Institute of Electronics and Information Engineers (IEIE) (2020-Present)
+- Member, Institute of Electronics and Information Engineers (IEIE) (2020-Present)
 
 ## How to reach me 📫
 
