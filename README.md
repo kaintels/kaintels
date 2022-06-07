@@ -12,7 +12,7 @@
 > Data engineering, ML model production, information sharing
 
 ## Honor & Rewards 🏆
-- Top 10%, DBpia author Electronics/Information and Communication Engineering ranking, 2022
+- Top 10%, DBpia author Electronics/Information and Communication Engineering ranking, May, 2022
 - Excellence Award, Cyber security AI·BIGDATA challenge, 2021
 - Top 44%, 1st Machine Learning month with Kaggle Korea, 2019
 
