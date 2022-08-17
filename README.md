@@ -5,7 +5,7 @@
 ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaintels)
 
 ## Bio 📘 
-- MLOps (Research Agent [전문연구요원])
+- Machine learning engineer (Research Agent [전문연구요원])
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 
 ## Interest 🔎
