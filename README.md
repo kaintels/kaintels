@@ -5,7 +5,7 @@
 ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaintels)
 
 ## Bio 📘 
-- Machine learning engineer (Research Agent [전문연구요원])
+- Machine learning engineer
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 
 ## Interest 🔎
@@ -19,10 +19,3 @@
 
 ## My Skill 📙
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=10)
-
-## Community Activity 👯
-
-- 3D CAD design team leader, [**Team Mad for Speed**](https://www.facebook.com/teammfs/) (2017-2019)
-- Teaching Assistant, Kwangwoon University (2019-2021)
-- Machine Learning Mento, [**Team Mad for Speed**](https://www.facebook.com/teammfs/) and [**ThankyousoMarch**](https://th3.co.kr/) (2019-2021)
-- Member, Institute of Electronics and Information Engineers (IEIE) (2020-Present)
