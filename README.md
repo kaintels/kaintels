@@ -5,7 +5,6 @@
 ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaintels)
 
 ## Bio 📘 
-- Machine learning engineer
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 
 ## Interest 🔎
