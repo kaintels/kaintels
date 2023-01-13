@@ -17,4 +17,4 @@
 - **Top 44%**, 1st Machine Learning month with Kaggle Korea, 2019
 
 ## My Skill 📙
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=10)
