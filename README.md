@@ -7,7 +7,7 @@
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 
 ## Interest 🔎
-> MLOps, Mechanical design, information sharing
+> MLOps, Mechanical design, 漢文講讀, information sharing
 
 ## Honor & Rewards 🏆
 - **Excellence Student Paper Award**, Summer Annual Conference of IEIE, 2022
