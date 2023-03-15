@@ -7,7 +7,7 @@
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 
 ## Interest 🔎
-> MLOps, Generative model, Mechanical design, information sharing
+> MLOps, Generative model, Time-Frequency analysis, Mechanical design, information sharing
 
 ## Honor & Rewards 🏆
 - **Excellence Student Paper Award**, Summer Annual Conference of IEIE, 2022
