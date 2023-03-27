@@ -5,6 +5,7 @@
 
 ## Bio 📘 
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
+- Main contributor of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
 > MLOps, Generative model, Time-Frequency analysis, Mechanical design, information sharing
