@@ -8,7 +8,7 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> MLOps, Generative model, Time-Frequency analysis, Mechanical design, information sharing
+> Time-Frequency analysis, Image denoising, Mechanical design, information sharing
 
 ## Honor & Rewards 🏆
 - **Excellence Student Paper Award**, Summer Annual Conference of IEIE, 2022
