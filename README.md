@@ -8,7 +8,7 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> Time-Frequency analysis, Image denoising, Mechanical design, information sharing
+> Time-Frequency analysis, Image captioning, Mechanical design, information sharing
 
 ## Competition & Reward 🏆
 - ?/?, 데이콘 Basic 칼로리 소모량 예측 AI 경진대회, 2023
