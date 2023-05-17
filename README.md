@@ -8,7 +8,7 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> Natural language processing, Brain computer interface, Visual analytics, 3D design, information sharing
+> Audio signal processing, Brain computer interface, information retrieval, 3D design, information sharing
 
 ## Competition & Reward 🏆
 - ?/?, 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
