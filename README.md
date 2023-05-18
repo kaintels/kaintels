@@ -16,3 +16,5 @@
 - 우수학생논문상, "그래프 신경망을 이용한 부정맥 분류 알고리즘", 대한전자공학회 2022 하계종합학술대회, 2022
 - 우수상, 사이버보안 AI·빅데이터 활용 경진대회 - AI 기반 파워쉘 악성 스크립트 탐지 트랙, 2021
 - 153등/349 (44%), 캐글 코리아와 함께하는 1st ML 대회 - 타이타닉 생존자를 예측하라! , 2019
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=donut&langs_count=10)
