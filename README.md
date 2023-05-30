@@ -8,7 +8,7 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> Industrial signal processing, Sentiment analysis, information retrieval, Education game, 3D design
+> Audio deepfake detection, Sentiment analysis, Education game, 3D design
 
 ## Competition & Reward 🏆
 - ?/?, 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
