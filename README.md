@@ -8,10 +8,10 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> Sentiment analysis, Recommend system, Education game, 3D design
+> Recommend system, Education game, 3D design
 
 ## Competition & Reward 🏆
-- ?/?, 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
+- 21등/431 (5%), 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
 - 54등/358 (15%), 데이콘 Basic 칼로리 소모량 예측 AI 경진대회, 2023
 - 우수학생논문상, "그래프 신경망을 이용한 부정맥 분류 알고리즘", 대한전자공학회 2022 하계종합학술대회, 2022
 - 우수상, 사이버보안 AI·빅데이터 활용 경진대회 - AI 기반 파워쉘 악성 스크립트 탐지 트랙, 2021
