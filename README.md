@@ -8,7 +8,7 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> Computer vision, Graph neural networks, Reinforcement learning, 3D design
+> Computer vision, Image Compression, Reinforcement learning, 3D design
 
 ## Competition & Reward 🏆
 - 21등/431 (5%), 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
