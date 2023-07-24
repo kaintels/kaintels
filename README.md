@@ -8,7 +8,7 @@
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> BioNLP, Information extraction, Social computing, 3D design
+> Computer vision, Reinforcement learning, Education AI, Social computing, 3D design
 
 ## Competition & Reward 🏆
 - 21등/431 (5%), 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
