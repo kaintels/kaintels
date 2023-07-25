@@ -3,6 +3,10 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://swhme.tistory.com/)](https://kaintels.github.io)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaintels&hide=scss,html,css,jupyter%20notebook&layout=compact&langs_count=10)
+
+This won't say I'm fluent on specific languages:
+
 ## Bio 📘 
 - Main contributor of [**machine-learning**](https://github.com/teddylee777/machine-learning)
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
