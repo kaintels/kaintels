@@ -13,7 +13,7 @@ This won't say I'm fluent on specific languages:
 - Lead maintainer of [**torchact**](https://github.com/kaintels/torchact)
 
 ## Interest 🔎
-> Computer vision, Reinforcement learning, Education AI, Social computing, 3D design
+> Recommender system, Reinforcement learning, Education AI, Social computing, 3D design
 
 ## Competition & Reward 🏆
 - 21등/431 (5%), 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
