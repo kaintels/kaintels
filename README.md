@@ -15,6 +15,15 @@ This won't say I'm fluent on specific languages:
 ## Interest 🔎
 > Recommender system, Reinforcement learning, Graph neural networks
 
+## Tech stack
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=PyG&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+
 ## Competition & Reward 🏆
 - 21등/431 (5%), 월간 데이콘 음성 감정 인식 AI 경진대회, 2023
 - 54등/358 (15%), 데이콘 Basic 칼로리 소모량 예측 AI 경진대회, 2023
