@@ -16,4 +16,4 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Recommender system, Reinforcement learning, Graph neural networks
+> Recommender system, Reinforcement learning, Evolutionary Computation
