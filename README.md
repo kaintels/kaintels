@@ -18,4 +18,4 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Game AI, Evolutionary Computation, Recommender systems
+> Brain computer interface, Biomedical text mining
