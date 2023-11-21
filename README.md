@@ -18,4 +18,4 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Brain computer interface, Biomedical text mining
+> Machine learning, Brain computer interface
