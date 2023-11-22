@@ -18,4 +18,4 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Machine learning, Brain computer interface
+> Machine learning, Brain computer interface, Graph signal processing
