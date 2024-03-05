@@ -18,4 +18,4 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Machine learning, Biological signal processing
+> Biological signal processing, Wearable computing
