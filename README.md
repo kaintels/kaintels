@@ -16,7 +16,7 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Neural Engineering, Statistical Signal Processing
+> Brain Computer Interface, Statistical Signal Processing
 
 ## Tech stack ⚒️
 
