@@ -16,7 +16,7 @@ This won't say I'm fluent on specific languages:
 
 ## Interest 🔎
 
-> Machine Intelligence, Statistical Signal Processing
+> Machine Intelligence, Statistical Signal Processing
 
 ## Tech stack ⚒️
 
