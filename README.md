@@ -1,6 +1,6 @@
 ## Seungwoo Han
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://velog.io/@kaintels/posts)](https://velog.io/@kaintels/posts)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://kaintels.github.io/)](https://kaintels.github.io/)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)
 
 ![](https://github.com/kaintels/github-stats-transparent/blob/output/generated/overview.svg)
