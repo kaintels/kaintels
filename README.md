@@ -9,7 +9,6 @@
 
 ### Personal Interests and Hobbies
 - 3D design
-- PCB design
 - FPGA programming
 
 
