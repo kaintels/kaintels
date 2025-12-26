@@ -9,7 +9,7 @@
 
 ### Personal Interests and Hobbies
 - 3D design
-- FPGA programming
+- DSP, AI HW design
 
 
 
