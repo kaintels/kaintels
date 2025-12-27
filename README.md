@@ -1,8 +1,5 @@
 ## Seungwoo Han
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://kaintels.github.io/)](https://kaintels.github.io/)
-[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)](https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl)
-
 ### Research Interests
 - Neural architecture search
 - Meta learning
@@ -10,8 +7,6 @@
 ### Personal Interests and Hobbies
 - 3D design
 - DSP, AI HW design
-
-
 
 ### Github Statistics
 
@@ -25,8 +20,6 @@
   This won't say I'm fluent on specific languages:
   
 </details>
-
-
 
 ### Open-source project contributions
 
