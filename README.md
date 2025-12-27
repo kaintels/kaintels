@@ -1,5 +1,3 @@
-## Seungwoo Han
-
 ### Research Interests
 - Neural architecture search
 - Meta learning
