@@ -4,7 +4,7 @@
 
 ### Personal Interests and Hobbies
 - 3D design
-- DSP, AI HW design
+- AI HW design
 
 ### Github Statistics
 
