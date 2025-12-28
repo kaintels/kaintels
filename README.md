@@ -1,26 +1,12 @@
-### Research Interests
-- Neural architecture search
-- Meta learning
-
-### Personal Interests and Hobbies
-- 3D design
-- AI HW design
-
-### Github Statistics
-
-
-<details>
-  <summary>Click</summary>
-
-  ![](https://github.com/kaintels/github-stats-transparent/blob/output/generated/overview.svg)
-  ![](https://github.com/kaintels/github-stats-transparent/blob/output/generated/languages.svg)
-  
-  This won't say I'm fluent on specific languages:
-  
-</details>
-
-### Open-source project contributions
-
-- Main contributor, [**machine-learning**](https://github.com/teddylee777/machine-learning)
-- Lead maintainer, [**torchact**](https://github.com/kaintels/torchact)
-- Tester, [**netron**](https://github.com/lutzroeder/netron/issues/1508)
+<table>
+  <tbody>
+    <tr>
+    <td align="center">
+      <img src="github-metrics-left.svg" alt="" />
+    </td>
+    <td align="center">
+      <img src="github-metrics-right.svg" alt=""/>
+    </td>
+    </tr>
+  </tbody>
+</table>
