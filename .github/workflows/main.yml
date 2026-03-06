@@ -19,7 +19,7 @@ jobs:
           config_timezone: Asia/Seoul
           plugin_languages: yes
           plugin_languages_ignored: >- 
-            html, css
+            html, css, scss, ruby, tex, javascript, liquid
           plugin_languages_details: bytes-size, percentage
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
